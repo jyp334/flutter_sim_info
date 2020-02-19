@@ -4,10 +4,10 @@ import android.Manifest;
 import android.app.Activity;
 import android.content.Context;
 import android.content.pm.PackageManager;
+import android.support.annotation.NonNull;
+import android.support.v4.content.ContextCompat;
 import android.telephony.TelephonyManager;
 
-import androidx.annotation.NonNull;
-import androidx.core.content.ContextCompat;
 
 import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;
