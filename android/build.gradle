@@ -34,5 +34,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.android.support:appcompat-v7:27.1.1'
+    implementation 'androidx.core:core:1.0.0'
 }
